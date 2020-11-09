@@ -1,1 +1,1 @@
-# BeginnerSteps
+The projects inside this repo are common projects known amongst the 'new beginner' phase. Since I'm a new member of the syntax community, I'd love to expand my JAVA skill and knowledge throughout my repo work.
