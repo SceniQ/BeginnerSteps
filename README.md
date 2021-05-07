@@ -1,2 +1,9 @@
-The projects featured in this repo are from previously built projects in "Java Homework Projects" by Philip Conrod and Lou Tylee(2017). Because of this I've had a broader understanding of Java funtionalities, and I deeply fell deeper in love with it. I am aiming to rebuild every project in this book using Java SE 8 and 11 features with an aesthetic boost. Please review the code, and download any useful syntax you spot. It's all up for grabs!
-I am planning on publishing 9 projects per repo... The next repo will be about cloning.
+Hi. My name is Tebogo Assagaai, and I'm a recent Java Software Developer graduate. 
+
+To build my first ever Java profile, I've decided to take old projects and improve their front and back-end so that they can can be easily used for future programming(with a modern approach and anaesthetic adjustment). I mainly tread along the lines of Java 8 and 11 features
+(as I did for this current project; from OOP concepts, Lambda expression to I/O and JDBC communication; to name a few).
+I would appreciate it greatly if you'd take a moment of your time to inspect and, possibly, share this project. Any advice on how I can improve on my future modifications is higly welcomed. I will publish no more than 9 projects per repo.
+
+PS: This project contains a stopwatch package built by me.It is up for grabs. For free. No T&C's. It includes functional objects(I plan on sharing more of these).
+#JavaProjects #JuniorSoftwareDev #Java #FrontEnd #BackEnd #UXDesign #ModerniseJava                                                                                                                                                                                                                                                                                    
+
