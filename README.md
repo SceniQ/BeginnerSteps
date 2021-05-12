@@ -6,6 +6,9 @@ I would appreciate it greatly if you'd take a moment of your time to inspect and
 
 SOURCE CODE IS IN THE 'SRC' FOLDER!
 
-PS: This project contains a stopwatch package built by me.It is up for grabs. For free. No T&C's. It includes functional objects(I plan on sharing more of these).
-#JavaProjects #JuniorSoftwareDev #Java #FrontEnd #BackEnd #UXDesign #ModerniseJava                                                                                                                                                                                                                                                                                    
+1. DualModeStopwatch - 
+    Enhancements: Live theme change, button number reduction, mark times feature (for lap tracking) and Java 8+11 code modification
+    
+2. Consumer Loan Assistant App - 
+    Enhancements: User friendly interface, button number reduction, single button functionality and Java 8+11 code modification
 
