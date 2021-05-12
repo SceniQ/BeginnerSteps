@@ -9,8 +9,8 @@ SOURCE CODE IS IN THE 'SRC' FOLDER!
 PROJECTS' INFO:
 
 1. DualModeStopwatch - 
-    Enhancements: Live theme change, button number reduction, mark times feature (for lap tracking) and Java 8+11 code modification
+    Enhancements: Live theme change, button number reduction, mark times feature (for lap tracking) and Java 8+11 syntax modification
     
 2. Consumer Loan Assistant App - 
-    Enhancements: User friendly interface, button number reduction, single button functionality and Java 8+11 code modification
+    Enhancements: User friendly interface, button number reduction, single button functionality and Java 8+11 syntax modification
 
