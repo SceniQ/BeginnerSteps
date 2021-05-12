@@ -6,6 +6,8 @@ I would appreciate it greatly if you'd take a moment of your time to inspect and
 
 SOURCE CODE IS IN THE 'SRC' FOLDER!
 
+PROJECTS INFO:
+
 1. DualModeStopwatch - 
     Enhancements: Live theme change, button number reduction, mark times feature (for lap tracking) and Java 8+11 code modification
     
