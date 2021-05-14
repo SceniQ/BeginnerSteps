@@ -9,10 +9,12 @@ SOURCE CODE IS IN THE 'SRC' FOLDER!
 PROJECTS' INFO:
 
 1. DualModeStopwatch - 
+
     Brief: A stopwatch with a dual mode feature that keeps track of counted seconds and the total time taken during the timing processs
     Enhancements: Live theme change, button count reduction, mark times feature (for lap tracking) and Java 8+11 syntax modification
     
 2. Consumer Loan Assistant App - 
+
     Brief: This is a loan calculator that provides financial and payment information regarding your loan; depending on the information given
     Enhancements: User friendly interface, button count reduction, single button functionality and Java 8+11 syntax modification
 
