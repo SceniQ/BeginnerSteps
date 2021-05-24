@@ -22,6 +22,6 @@ PROJECTS' INFO:
  
 	Brief: Flash Card Math Quiz is an application that asks a series of random mathematical questions which keeps score and game progression.
 	       The game has a timer with options on how the test should be timed.
-	Enhancement:Theme change, additional welcome screen, additional 'home screen', A new game added within the Quiz applet, Limited testing time
-		    Game Introduction screens, New UX with an interactive gameplay during runtime, and Java 8 + 11 syntax improvement 
+	Enhancement:Theme change, additional welcome screen, additional 'home screen', A new game added within the Quiz applet, Limited testing time,
+		    Game Introduction screens, New UX with an interactive gameplay during runtime, and Java 8 + 11 syntax modification 
 
