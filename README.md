@@ -18,7 +18,7 @@ PROJECTS' INFO:
     Brief: This is a loan calculator that provides financial and payment information regarding your loan; depending on the information given
     Enhancements: User friendly interface, button count reduction, single button functionality and Java 8+11 syntax modification
     
-3. Flash Card Quiz
+3. Flash Card Quiz - 
  
 	Brief: Flash Card Math Quiz is an application that asks a series of random mathematical questions which keeps score and game progression.
 	       The game has a timer with options on how the test should be timed.
