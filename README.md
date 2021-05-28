@@ -24,4 +24,8 @@ PROJECTS' INFO:
 	       The game has a timer with options on how the test should be timed.
 	Enhancement:Theme change, additional welcome screen, additional 'home screen', A new game added within the Quiz applet, Limited testing time,
 		    Game Introduction screens, New UX with an interactive gameplay during runtime, and Java 8 + 11 syntax modification 
+4. Multiple Choice Exam - 
 
+	Brief: Multiple Choice Exam is an multichoice, custom-made, exam tester. This app generates a series of general knowledge inormation
+		with its answers have to be matched with what is right
+	Enhancement: Theme Change, Welcome Screen inclusion, button re-design, limitted to strictly multiple choice options, and Java 8 + 11 syntax modifcation
